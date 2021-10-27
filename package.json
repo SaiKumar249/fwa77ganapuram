@@ -12,5 +12,18 @@
     "http-errors": "^1.8.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiKumar249/fwa77ganapuram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiKumar249/fwa77ganapuram/issues"
+  },
+  "homepage": "https://github.com/SaiKumar249/fwa77ganapuram#readme",
+  "description": ""
 }
